@@ -1,5 +1,5 @@
 {
-    "name": "egeloen/lucene-search-bundle",
+    "name": "diszo2009/lucene-search-bundle",
     "type": "symfony-bundle",
     "description": "Provides a zend lucene search integration for your Symfony2 Project.",
     "keywords": [ "lucene search" ],
