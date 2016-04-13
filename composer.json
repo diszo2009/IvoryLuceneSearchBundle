@@ -16,7 +16,7 @@
         "symfony/dependency-injection": "^2.3|^3.0",
         "symfony/filesystem": "^2.3|^3.0",
         "symfony/framework-bundle": "^2.3|^3.0",
-        "diszo2009/zendsearch": "^2.0@rc"
+        "diszo2009/zendsearch": "dev-1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
@@ -32,7 +32,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.0-dev"
+            "dev-master": "1.0"
         }
     }
 }
